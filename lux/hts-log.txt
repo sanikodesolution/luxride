@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 18 Oct 2023 12:29:50 at https://maysalimo.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://maysalimo.com/ -O1 "D:\saniksolution\lux\lux" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:31:16	Error: 	"Not Found" (404) at link https://maysalimo.com/blog.html (from https://maysalimo.com/)
+12:31:24	Warning: 	Link https://maysalimo.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+12:31:32	Error: 	"Not Found" (404) at link https://maysalimo.com/assets/imgs/theme/favicon.svg (from https://maysalimo.com/assets/css/style.css?v=1.0.0)
+12:31:32	Error: 	"Not Found" (404) at link https://maysalimo.com/assets/imgs/page/register/check.svg (from https://maysalimo.com/assets/css/style.css?v=1.0.0)
+12:31:32	Error: 	"Not Found" (404) at link https://maysalimo.com/assets/imgs/slider/swiper/dot.svg (from https://maysalimo.com/assets/css/style.css?v=1.0.0)
+12:31:32	Error: 	"Not Found" (404) at link https://maysalimo.com/assets/imgs/slider/swiper/dot-active.svg (from https://maysalimo.com/assets/css/style.css?v=1.0.0)
+12:31:32	Error: 	"Not Found" (404) at link https://maysalimo.com/assets/imgs/page/about/banner2.webp (from https://maysalimo.com/assets/css/style.css?v=1.0.0)
+12:31:32	Error: 	"Not Found" (404) at link https://maysalimo.com/assets/imgs/page/booking/safe.svg (from https://maysalimo.com/assets/css/style.css?v=1.0.0)
+12:31:33	Error: 	"Not Found" (404) at link https://maysalimo.com/page/reserve (from https://maysalimo.com/cms/reserve)
+12:31:36	Error: 	"Not Found" (404) at link https://maysalimo.com/maysa-limo-transportation-los-angeles-rams-sofi-stadium/ (from https://maysalimo.com/cms)
+12:31:36	Error: 	"Not Found" (404) at link https://maysalimo.com/page/2 (from https://maysalimo.com/cms)
+12:31:39	Error: 	"Not Found" (404) at link https://maysalimo.com/assets/css/plugins/images/ui-icons_444444_256x240.html (from https://maysalimo.com/assets/css/plugins/jquery-ui.css)
+12:31:39	Error: 	"Not Found" (404) at link https://maysalimo.com/assets/css/plugins/images/ui-icons_555555_256x240.html (from https://maysalimo.com/assets/css/plugins/jquery-ui.css)
+12:31:39	Error: 	"Not Found" (404) at link https://maysalimo.com/assets/css/plugins/images/ui-icons_ffffff_256x240.html (from https://maysalimo.com/assets/css/plugins/jquery-ui.css)
+12:31:39	Error: 	"Not Found" (404) at link https://maysalimo.com/assets/css/plugins/images/ui-icons_777620_256x240.html (from https://maysalimo.com/assets/css/plugins/jquery-ui.css)
+12:31:39	Error: 	"Not Found" (404) at link https://maysalimo.com/assets/css/plugins/images/ui-icons_cc0000_256x240.html (from https://maysalimo.com/assets/css/plugins/jquery-ui.css)
+12:31:39	Error: 	"Not Found" (404) at link https://maysalimo.com/assets/css/plugins/images/ui-icons_777777_256x240.html (from https://maysalimo.com/assets/css/plugins/jquery-ui.css)
+12:31:42	Error: 	"Not Found" (404) at link https://maysalimo.com/taylor-swift-sofi-stadium-concerts-transportation/ (from https://maysalimo.com/cms/book-chartered-transportation-beyonce-sofi-stadium-concerts?ref=vip.maysalimo.com)
+12:31:42	Error: 	"Not Found" (404) at link https://maysalimo.com/getting-to-the-rams-vs-49ers-game-skip-the-sofi-stadium-transportation-headache/ (from https://maysalimo.com/cms/book-chartered-transportation-beyonce-sofi-stadium-concerts?ref=vip.maysalimo.com)
+12:31:42	Error: 	"Not Found" (404) at link https://maysalimo.com/what-to-ask-when-booking-los-angeles-limo-service/ (from https://maysalimo.com/cms/taylor-swift-sofi-stadium-concerts-transportation?ref=vip.maysalimo.com)
+12:31:42	Error: 	"Not Found" (404) at link https://maysalimo.com/book-chartered-transportation-beyonce-sofi-stadium-concerts/ (from https://maysalimo.com/cms/taylor-swift-sofi-stadium-concerts-transportation?ref=vip.maysalimo.com)
+12:31:44	Error: 	"Not Found" (404) at link https://maysalimo.com/facebook.com/maysalimousine (from https://maysalimo.com/team-single.html)
+12:31:44	Error: 	"Not Found" (404) at link https://maysalimo.com/chartered-transportation-pink-concert-sofi-stadium/ (from https://maysalimo.com/cms/maysa-limo-transportation-los-angeles-rams-sofi-stadium?ref=vip.maysalimo.com)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 54 seconds : 372 links scanned, 349 files written (32609992 bytes overall) [30294096 bytes received at 265737 bytes/sec], 10125319 bytes transferred using HTTP compression in 231 files, ratio 71%, 21.9 requests per connection
+(22 errors, 1 warnings, 0 messages)
